@@ -3,7 +3,7 @@
 ## 유튜브 채널
 
 - 채널 URL: https://youtube.com/shorts/vVUBSOkzrs8?feature=share
-)
+
 
 ## 제출 영상
 
